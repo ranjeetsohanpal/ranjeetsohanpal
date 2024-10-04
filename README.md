@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am majoring in B.Tech Electrical Engineering at IIT Ropar. I am interested in Machine Learning And Statistics. I am working on applying predictive models to solve real-world problems.I have also done projects on Analog Ciruits, Verilog and Control Engineering and have hands on experience with Cadence Virtuoso and MATLAB.
+I am majoring in B.Tech Electrical Engineering at IIT Ropar.
 
 
 ## 🛠️ **Tech Stack & Skills**
