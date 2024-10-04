@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**ranjeetsohanpal/ranjeetsohanpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electrical Engineering major with a passion for Machine Learning And Statistics. I specialize in applying predictive models to solve real-world problems, and I've worked on projects like Alzheimer's Disease Classifier, Laptop Price Prediction, and a Books Recommendation System.I have also done Electronics Engineering Project and have hands on experience with Cadence Virtuoso.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning *Mathematics* and *Statistics*
+
+## 🛠️ **Tech Stack & Skills**
+
+- **Programming Languages**: Python, C++, SQL, R
+- **Data Science & Machine Learning**: Scikit-learn, TensorFlow, PyTorch, XGBoost
+- **Web Development**: Flask, Bootstrap, HTML, CSS
+- **Databases**: MySQL, Postgres, MongoDB
+- **Version Control**: Git, GitHub
+
+## 📈 **GitHub Stats**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetsohanpal&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=ranjeetsohanpal&color=blue)
