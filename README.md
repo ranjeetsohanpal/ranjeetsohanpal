@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am majoring in B.Tech Electrical Engineering at IIT Ropar.
+I am majoring in B.Tech Electrical Engineering at IIT Ropar,India.
 
 
 ## 🛠️ **Tech Stack & Skills**
