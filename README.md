@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am majoring in B.Tech Electrical Engineering at IIT Ropar,India. I am looking for projects in Data Science and Machine Learning and will be more than happy to contribute.
+I am majoring in B.Tech Electrical Engineering at IIT Ropar,India. I am looking for work in Data Science and Machine Learning and will be more than happy to contribute.
 
 
 ## 🛠️ **Tech Stack & Skills**
