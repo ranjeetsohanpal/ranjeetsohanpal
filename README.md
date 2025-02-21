@@ -8,7 +8,6 @@ I am majoring in B.Tech Electrical Engineering at IIT Ropar,India. I am looking 
 - **Softwares** : MATLAB, RStudio, Microsoft Excel
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, XGBoost
 - **Web Development**: Flask, Bootstrap, HTML, CSS
-- **Databases**: MySQL, Postgres, MongoDB
 - **Version Control**: Git, GitHub
 
 ## 📈 **GitHub Stats**
