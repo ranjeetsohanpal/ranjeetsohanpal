@@ -5,7 +5,7 @@ I am majoring in B.Tech Electrical Engineering at IIT Ropar,India. I am looking 
 ## 🛠️ **Tech Stack & Skills**
 
 - **Programming Languages**: Python, C++, SQL, R, Verilog
-- **Softwares** : MATLAB, RStudio, Microsoft Excel
+- **Softwares** : MATLAB, RStudio, Microsoft Excel, PowerBI
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, XGBoost
 - **Web Development**: Flask, Bootstrap, HTML, CSS
 - **Version Control**: Git, GitHub
